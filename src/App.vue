@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    VUE-cli 搭建的项目
+    VUE-cli 搭建的项目 
   </div>
 </template>
 
