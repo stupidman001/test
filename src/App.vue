@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    这个是首页面
+    这个是首页面  提交的新内容
   </div>
 </template>
 
